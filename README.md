@@ -3,7 +3,7 @@ Hi, I'm Victor. I'm a  4th Year Computer Science and Enginnering Student from Un
 a small team have worked on. I like working on solving interview questions on my off time and I like working with arduino to create small projects in real life.
 
 ## Skills/Software
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Code>-<C++>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!---
 I8HER/I8HER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
