@@ -16,6 +16,7 @@ a small team have worked on. I like working on solving interview questions on my
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![](https://camo.githubusercontent.com/825b9f57796bc1020ab4e80a1263da07752deaf2e967358587141e75beada9f2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d466c757474657226636f6c6f723d303235363942266c6f676f3d466c7574746572266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
 <!---
 I8HER/I8HER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
