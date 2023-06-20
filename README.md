@@ -1,6 +1,6 @@
 ## Introduction
-Hi, I'm Victor. I'm a  4th Year Computer Science and Enginnering Student from University of California, Merced. This github has a lot of my side projects, classwork and project that I or
-a small team have worked on. I like working on solving interview questions on my off time and I like working with arduino to create small projects in real life.
+Hi, I'm Victor. I'm a  Software Engineer with a degree in Computer Science and Engineering from University of California, Merced. This GitHub has a lot of my side projects, classwork, and project that I or
+a small team have worked on. I am currently creating a suite of production and testing applications in WPF and .NET for my job.
 
 ## Skills/Tools/Operating System
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
